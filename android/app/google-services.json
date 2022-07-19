@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803091949218",
+    "project_id": "marvelwallpaper-4cec3",
+    "storage_bucket": "marvelwallpaper-4cec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803091949218:android:a4701fcab3b46e78d699fb",
+        "android_client_info": {
+          "package_name": "com.sushantjain.marvel_wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803091949218-iboq6gu1p3qemr5qfc5sigrataog6jia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNWq8_M3NBQIX72LY5KYs6szGE8dgWDak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803091949218-iboq6gu1p3qemr5qfc5sigrataog6jia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
